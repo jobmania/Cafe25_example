@@ -4,4 +4,4 @@
 + 기본 HTML
 + 기본 CSS, 플렉스, 그리드
 🤷‍♀️ 어쩔티비!
-+ [링크](https:~~)
++ [링크](https://jobmania.github.io/Cafe25_example/)
